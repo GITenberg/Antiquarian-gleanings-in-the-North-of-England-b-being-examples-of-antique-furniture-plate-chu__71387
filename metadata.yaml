@@ -1,0 +1,32 @@
+_repo: Antiquarian-gleanings-in-the-North-of-England-b-being-examples-of-antique-furniture-plate-chu__71387
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, William Bell
+    aliases:
+    - Scott, W. B. (William Bell)
+    - Scott, William B. (William Bell)
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '35837'
+    url: http://www.gutenberg.org/2009/agents/35837
+    wikipedia: https://en.wikipedia.org/wiki/William_Bell_Scott
+description: ''
+gutenberg_issued: '2023-08-10'
+identifiers:
+  gutenberg: '71387'
+language: en
+pgterms:marc905: 20230203164254scott
+pgterms:marc906: '1851'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bGeorge Bell, $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Antiquarian gleanings in the North of England : $b being examples of antique
+  furniture, plate, church decorations, objects of historical interest, etc.'
+url: http://www.gutenberg.org/ebooks/71387
